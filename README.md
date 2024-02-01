@@ -7,7 +7,8 @@ The director of marketing believes the company’s future success depends on max
 
 ❔ How do annual members and casual riders use Cyclistic bikes differently?
 
-The database used was from every ride of 2023, available on this link ➡️  https://divvy-tripdata.s3.amazonaws.com/index.html
+The database used was from every ride of 2023, available on this link 
+➡️ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 In order to obtain insights the following actions and calculations were made in Microsoft Excel:
 
@@ -25,6 +26,8 @@ In order to obtain insights the following actions and calculations were made in 
 
 ✔️  Bar graph from the pivot
 
-Exemplar sheet from February ➡️ [TripData_202202.xlsx](https://github.com/jmerino99/Cyclistic/files/14129747/TripData_202202.xlsx)
+Exemplar sheet from February 
+➡️ (https://github.com/jmerino99/Cyclistic/files/14129747/TripData_202202.xlsx)
 
-The dashboard was made in Power BI ➡️ [Cyclistic_DASH.pdf](https://github.com/jmerino99/Cyclistic/files/14129976/Cyclistic_DASH.pdf) showing different trends between members and casual riders
+The dashboard was made in Power BI 
+➡️ (https://github.com/jmerino99/Cyclistic/files/14129976/Cyclistic_DASH.pdf) showing different trends between members and casual riders
