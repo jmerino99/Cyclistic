@@ -26,7 +26,9 @@ Para conseguir insights fue necesario realizar los siguientes cambios y acciones
 ✔️ Grafico de Barras
 
 Hoja de calculo de ejemplo con los calculos y transformaciones realizadas para el mes de febrero: 
+
 ➡️ https://github.com/jmerino99/Cyclistic/blob/main/TripData_202202.xlsx
 
 El dashboard fue realizado en Power BI, donde se pueden ver distintos patrones de comportamiento para cada grupo de acuerdo a la epoca del año y en especial si se trata de un dia de semana o un fin de semana 
+
 ➡️ https://github.com/jmerino99/Cyclistic/blob/main/Cyclistic_DASH.pdf
